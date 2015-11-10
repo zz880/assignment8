@@ -1,0 +1,4 @@
+Position Value:  1  Mean:  0.0076  Standard Deviation:  0.999971119583 
+Position Value:  10  Mean:  0.02334  Standard Deviation:  0.31793591241 
+Position Value:  100  Mean:  0.020392  Standard Deviation:  0.101038241948 
+Position Value:  1000  Mean:  0.0201676  Standard Deviation:  0.0313413705865 
